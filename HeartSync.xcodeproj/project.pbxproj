@@ -14,7 +14,7 @@
 		906B1D412E92B6DB00309935 /* Exceptions for "HeartSync" folder in "HeartSync" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				App/Info.plist,
 			);
 			target = 906B1D2E2E92B6D900309935 /* HeartSync */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = RK7567PCB7;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HeartSync/Info.plist;
+				INFOPLIST_FILE = HeartSync/App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -175,7 +175,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = RK7567PCB7;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HeartSync/Info.plist;
+				INFOPLIST_FILE = HeartSync/App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
